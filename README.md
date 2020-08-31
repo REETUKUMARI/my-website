@@ -5,6 +5,3 @@ this is a really awesome website
 =======
 some edit
 
-
-updated succsessfully
->>>>>>> update-readme
